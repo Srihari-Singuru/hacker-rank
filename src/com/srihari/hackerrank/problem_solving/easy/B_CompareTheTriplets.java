@@ -1,4 +1,4 @@
-package com.srihari.hackerrank.easy;
+package com.srihari.hackerrank.problem_solving.easy;
 
 import java.util.Arrays;
 import java.util.List;
@@ -8,7 +8,7 @@ import java.util.List;
  * https://www.hackerrank.com/challenges/compare-the-triplets/problem
  *
  */
-public class B_Compare_The_Triplets {
+public class B_CompareTheTriplets {
     // Complete the compareTriplets function below.
     static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
         int aliceScore = 0;
