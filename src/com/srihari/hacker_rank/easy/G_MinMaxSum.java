@@ -2,6 +2,9 @@ package com.srihari.hacker_rank.easy;
 
 import java.util.Arrays;
 
+/**
+ * https://www.hackerrank.com/challenges/mini-max-sum/problem
+ */
 public class G_MinMaxSum {
     // Complete the miniMaxSum function below.
     static void miniMaxSum(int[] arr) {
