@@ -1,6 +1,4 @@
-package com.srihari.hacker_rank.warmup;
-
-import java.util.Arrays;
+package com.srihari.hacker_rank.a_warmup;
 
 /**
  * https://www.hackerrank.com/challenges/mini-max-sum/problem

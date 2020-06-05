@@ -1,12 +1,10 @@
-package com.srihari.hacker_rank.warmup;
+package com.srihari.hacker_rank.a_warmup;
 
 import java.util.Arrays;
 import java.util.List;
 
 /**
- *
  * https://www.hackerrank.com/challenges/compare-the-triplets/problem
- *
  */
 public class B_CompareTheTriplets {
     // Complete the compareTriplets function below.

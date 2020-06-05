@@ -1,13 +1,10 @@
-package com.srihari.hacker_rank.warmup;
+package com.srihari.hacker_rank.a_warmup;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 /**
- *
  * https://www.hackerrank.com/challenges/diagonal-difference/problem
- *
  */
 public class D_DiagonalDifference {
     /*

@@ -1,13 +1,10 @@
-package com.srihari.hacker_rank.warmup;
+package com.srihari.hacker_rank.a_warmup;
 
-import java.io.IOException;
 import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- *
  * https://www.hackerrank.com/challenges/simple-array-sum/problem
- *
  */
 
 public class A_SimpleArraySum {

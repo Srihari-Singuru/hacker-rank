@@ -1,4 +1,4 @@
-package com.srihari.hacker_rank.warmup;
+package com.srihari.hacker_rank.a_warmup;
 
 /**
  * https://www.hackerrank.com/challenges/birthday-cake-candles/problem

@@ -1,11 +1,9 @@
-package com.srihari.hacker_rank.warmup;
+package com.srihari.hacker_rank.a_warmup;
 
 import java.util.Arrays;
 
 /**
- *
  * https://www.hackerrank.com/challenges/a-very-big-sum/problem
- *
  */
 public class C_AVeryBigSum {
     // Complete the aVeryBigSum function below.

@@ -1,9 +1,7 @@
-package com.srihari.hacker_rank.warmup;
+package com.srihari.hacker_rank.a_warmup;
 
 /**
- *
  * https://www.hackerrank.com/challenges/plus-minus/problem
- *
  */
 public class E_PlusMinus {
     // Complete the plusMinus function below.
