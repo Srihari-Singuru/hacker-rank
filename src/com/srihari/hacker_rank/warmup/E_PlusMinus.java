@@ -1,4 +1,4 @@
-package com.srihari.hacker_rank.easy;
+package com.srihari.hacker_rank.warmup;
 
 /**
  *

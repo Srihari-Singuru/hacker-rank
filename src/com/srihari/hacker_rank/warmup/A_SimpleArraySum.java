@@ -1,4 +1,4 @@
-package com.srihari.hacker_rank.easy;
+package com.srihari.hacker_rank.warmup;
 
 import java.io.IOException;
 import java.util.Arrays;

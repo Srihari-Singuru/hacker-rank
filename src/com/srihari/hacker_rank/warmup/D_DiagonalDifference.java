@@ -1,4 +1,4 @@
-package com.srihari.hacker_rank.easy;
+package com.srihari.hacker_rank.warmup;
 
 import java.util.ArrayList;
 import java.util.Arrays;
