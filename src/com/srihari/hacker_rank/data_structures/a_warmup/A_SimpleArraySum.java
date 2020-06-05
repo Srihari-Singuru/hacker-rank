@@ -1,4 +1,4 @@
-package com.srihari.hacker_rank.a_warmup;
+package com.srihari.hacker_rank.data_structures.a_warmup;
 
 import java.util.Arrays;
 import java.util.Scanner;

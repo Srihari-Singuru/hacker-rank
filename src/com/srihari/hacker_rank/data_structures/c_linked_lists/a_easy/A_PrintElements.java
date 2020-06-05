@@ -1,4 +1,4 @@
-package com.srihari.hacker_rank.c_linked_lists.a_easy;
+package com.srihari.hacker_rank.data_structures.c_linked_lists.a_easy;
 
 /**
  * https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem

@@ -1,7 +1,6 @@
-package com.srihari.hacker_rank.b_arrays.a_easy;
+package com.srihari.hacker_rank.data_structures.b_arrays.a_easy;
 
 import java.util.Arrays;
-import java.util.Collections;
 
 /**
  * https://www.hackerrank.com/challenges/arrays-ds/problem

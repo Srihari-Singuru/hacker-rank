@@ -1,4 +1,4 @@
-package com.srihari.hacker_rank.b_arrays.c_hard;
+package com.srihari.hacker_rank.data_structures.b_arrays.c_hard;
 
 /**
  * https://www.hackerrank.com/challenges/crush/problem

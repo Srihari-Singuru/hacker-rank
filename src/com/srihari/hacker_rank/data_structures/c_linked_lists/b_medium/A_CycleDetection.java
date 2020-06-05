@@ -1,4 +1,4 @@
-package com.srihari.hacker_rank.c_linked_lists.b_medium;
+package com.srihari.hacker_rank.data_structures.c_linked_lists.b_medium;
 
 /**
  * https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem

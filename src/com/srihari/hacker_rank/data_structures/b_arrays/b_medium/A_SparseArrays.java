@@ -1,4 +1,4 @@
-package com.srihari.hacker_rank.b_arrays.b_medium;
+package com.srihari.hacker_rank.data_structures.b_arrays.b_medium;
 
 import java.util.Arrays;
 import java.util.HashMap;
