@@ -1,4 +1,4 @@
-package com.srihari.hackerrank.problem_solving.easy;
+package com.srihari.hacker_rank.easy;
 
 import java.io.IOException;
 import java.util.Arrays;
