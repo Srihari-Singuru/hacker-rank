@@ -1,4 +1,4 @@
-package com.srihari.daily_coding.a_easy;
+package com.srihari.daily_coding.c_hard;
 
 import java.util.Arrays;
 
