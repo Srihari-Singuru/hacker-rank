@@ -1,4 +1,4 @@
-package com.srihari.hacker_rank.algorithms.b_implementation;
+package com.srihari.hacker_rank.algorithms.b_implementation.a_easy;
 
 import java.util.Arrays;
 import java.util.List;

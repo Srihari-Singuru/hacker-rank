@@ -1,9 +1,9 @@
 package com.srihari.hacker_rank.data_structures.e_trees.a_easy;
 
 /**
- * https://www.hackerrank.com/challenges/tree-preorder-traversal/problem
+ * https://www.hackerrank.com/challenges/tree-postorder-traversal/problem
  */
-public class A_PreOrderTraversal {
+public class B_PostOrderTraversal {
     static class Node {
         Node left;
         Node right;
@@ -16,14 +16,14 @@ public class A_PreOrderTraversal {
         }
     }
 
-    public static void preOrder(Node root) {
+    public static void postOrder(Node root) {
         if(root == null){
             return;
         }
 
+        postOrder(root.left);
+        postOrder(root.right);
         System.out.print(root.data+" ");
-        preOrder(root.left);
-        preOrder(root.right);
     }
 
     public static Node insert(Node root, int data) {
@@ -51,6 +51,6 @@ public class A_PreOrderTraversal {
         insert(root, 5);
         insert(root, 6);
 
-        preOrder(root);
+        postOrder(root);
     }
 }
